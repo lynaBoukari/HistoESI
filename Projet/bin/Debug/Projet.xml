@@ -1,0 +1,360 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Projet
+</name>
+</assembly>
+<members>
+<member name="T:Projet.BDD_PRJT_EQUIPE14DataSet.ETUDIANTDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Projet.BDD_PRJT_EQUIPE14DataSet.GROUPEDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Projet.BDD_PRJT_EQUIPE14DataSet.MATIEREDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Projet.BDD_PRJT_EQUIPE14DataSet.MOYENNEMATIEREDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Projet.BDD_PRJT_EQUIPE14DataSet.NOTEDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Projet.BDD_PRJT_EQUIPE14DataSet.PARCOURSDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Projet.BDD_PRJT_EQUIPE14DataSet.RATTRAPAGEDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Projet.BDD_PRJT_EQUIPE14DataSet.SECTIONDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Projet.BDD_PRJT_EQUIPE14DataSet.SPECIALITEDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Projet.BDD_PRJT_EQUIPE14DataSet.ETUDIANTRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Projet.BDD_PRJT_EQUIPE14DataSet.GROUPERow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Projet.BDD_PRJT_EQUIPE14DataSet.MATIERERow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Projet.BDD_PRJT_EQUIPE14DataSet.MOYENNEMATIERERow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Projet.BDD_PRJT_EQUIPE14DataSet.NOTERow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Projet.BDD_PRJT_EQUIPE14DataSet.PARCOURSRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Projet.BDD_PRJT_EQUIPE14DataSet.RATTRAPAGERow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Projet.BDD_PRJT_EQUIPE14DataSet.SECTIONRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Projet.BDD_PRJT_EQUIPE14DataSet.SPECIALITERow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Projet.BDD_PRJT_EQUIPE14DataSet.ETUDIANTRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Projet.BDD_PRJT_EQUIPE14DataSet.GROUPERowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Projet.BDD_PRJT_EQUIPE14DataSet.MATIERERowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Projet.BDD_PRJT_EQUIPE14DataSet.MOYENNEMATIERERowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Projet.BDD_PRJT_EQUIPE14DataSet.NOTERowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Projet.BDD_PRJT_EQUIPE14DataSet.PARCOURSRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Projet.BDD_PRJT_EQUIPE14DataSet.RATTRAPAGERowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Projet.BDD_PRJT_EQUIPE14DataSet.SECTIONRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Projet.BDD_PRJT_EQUIPE14DataSet.SPECIALITERowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Projet.BDD_PRJT_EQUIPE14DataSet">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:Projet.BDD_PRJT_EQUIPE14DataSetTableAdapters.ETUDIANTTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Projet.BDD_PRJT_EQUIPE14DataSetTableAdapters.GROUPETableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Projet.BDD_PRJT_EQUIPE14DataSetTableAdapters.MATIERETableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Projet.BDD_PRJT_EQUIPE14DataSetTableAdapters.MOYENNEMATIERETableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Projet.BDD_PRJT_EQUIPE14DataSetTableAdapters.NOTETableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Projet.BDD_PRJT_EQUIPE14DataSetTableAdapters.PARCOURSTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Projet.BDD_PRJT_EQUIPE14DataSetTableAdapters.RATTRAPAGETableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Projet.BDD_PRJT_EQUIPE14DataSetTableAdapters.SECTIONTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Projet.BDD_PRJT_EQUIPE14DataSetTableAdapters.SPECIALITETableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:Projet.BDD_PRJT_EQUIPE14DataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(Projet.BDD_PRJT_EQUIPE14DataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:Projet.BDD_PRJT_EQUIPE14DataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(Projet.BDD_PRJT_EQUIPE14DataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:Projet.BDD_PRJT_EQUIPE14DataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(Projet.BDD_PRJT_EQUIPE14DataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:Projet.BDD_PRJT_EQUIPE14DataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:Projet.BDD_PRJT_EQUIPE14DataSetTableAdapters.TableAdapterManager.UpdateAll(Projet.BDD_PRJT_EQUIPE14DataSet)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:Projet.BDD_PRJT_EQUIPE14DataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:Projet.BDD_PRJT_EQUIPE14DataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:Projet.BDD_PRJT_EQUIPE14DataSetTableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member><member name="P:Projet.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:Projet.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="P:Projet.My.Resources.Resources._03_inspiration_lamp_creatice_idea_bussiness_512">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Projet.My.Resources.Resources._1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Projet.My.Resources.Resources._1726510">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Projet.My.Resources.Resources._2">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Projet.My.Resources.Resources._3">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Projet.My.Resources.Resources._4">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Projet.My.Resources.Resources._5">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Projet.My.Resources.Resources._99665">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Projet.My.Resources.Resources.blank_database_symbol">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Projet.My.Resources.Resources.business">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Projet.My.Resources.Resources.CaptureBoutonParcours">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Projet.My.Resources.Resources.CaptureBoutonRelevé">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Projet.My.Resources.Resources.Command_Reset_256">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Projet.My.Resources.Resources.create_new__v2">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Projet.My.Resources.Resources.education_2_15_512">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Projet.My.Resources.Resources.file_add_icon_icons_com_48301">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Projet.My.Resources.Resources.HE_HE">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Projet.My.Resources.Resources.HE_HISTOESI">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Projet.My.Resources.Resources.help">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Projet.My.Resources.Resources.icon_contact_us_17">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Projet.My.Resources.Resources.icons8_modifier_26">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Projet.My.Resources.Resources.icons8_podium_50">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Projet.My.Resources.Resources.icons8_podium_64">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Projet.My.Resources.Resources.imp">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Projet.My.Resources.Resources.lock_512">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Projet.My.Resources.Resources.PageAcceuil">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Projet.My.Resources.Resources.password_computer_icons_security_safety_icon_png_clip_art">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Projet.My.Resources.Resources.print">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Projet.My.Resources.Resources.printer_icon_icons_com_72412">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Projet.My.Resources.Resources.rr">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Projet.My.Resources.Resources.search">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Projet.My.Resources.Resources.settings_cogwheel_button_icon_icons_com_72559">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Projet.My.Resources.Resources.Settings_icon__1_">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Projet.My.Resources.Resources.statistics">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Projet.My.Resources.Resources.téléchargement">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Projet.My.Resources.Resources.téléchargement1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Projet.My.Resources.Resources.tools_and_utensils">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Projet.My.Resources.Resources.unnamed">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Projet.My.Resources.Resources.winners_students_on_podium">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="T:Projet.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+</members>
+</doc>
